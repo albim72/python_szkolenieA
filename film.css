@@ -1,0 +1,18 @@
+film {
+    display:block;
+    margin-top:15pt;
+    font-size:16pt;
+    color:blueviolet;
+}
+
+tytul {
+    font-size:17pt;
+    font-weight:bold;
+    color:aqua;
+}
+
+
+gatunek {
+    font-size:14pt;
+    color:darkblue;
+}
